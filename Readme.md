@@ -1,4 +1,4 @@
-## Exercise_4-UiPath-Flow-sequence-or-Flow-chart-using-Repeat-While-and-Do-While-loops
+## Exercise_3-UiPath-Flow-sequence-or-Flow-chart-using-Repeat-While-and-Do-While-loops
 
 ## Aim:
 
